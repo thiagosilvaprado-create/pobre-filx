@@ -1,0 +1,37 @@
+body {
+background-color: rgb(241, 15, 226);
+color: rgb(255, 229, 248);
+
+font-family: "Fugaz One", sans-serif;
+margin: 0px;
+
+}
+
+header {
+font-size: 50px;
+text-align: center;
+border-bottom:dashed 5px rgb(230, 229, 231);
+padding: 30px;
+color: rgb(168, 143, 236);
+}
+
+h1 {
+font-size: 30px;
+padding-left: 30px;
+}
+
+p {
+font-size: 20px;
+padding-left: 30px;
+}
+
+section{
+background-color: blueviolet;
+padding-bottom: 80px;
+padding-top: 80px;
+display:flex;
+justify-content:center;
+}
+
+.chamada-texto{
+margin-right: 10%;
