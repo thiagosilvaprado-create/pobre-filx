@@ -25,7 +25,7 @@ font-size: 20px;
 padding-left: 30px;
 }
 
-section{
+.chamada{
 background-color: blueviolet;
 padding-bottom: 80px;
 padding-top: 80px;
@@ -35,3 +35,8 @@ justify-content:center;
 
 .chamada-texto{
 margin-right: 10%;
+
+img{
+    width: 300px;
+    heigth: 200px;
+}
